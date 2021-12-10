@@ -1,6 +1,6 @@
 version: 2.1
 jobs:
-  build:
+  build: 
       docker:
             - image: circleci/ruby:2.4.2-jessie-node
             -         auth:
